@@ -7,7 +7,7 @@ h1
     text-align: center;
     color: var(--favcolor);
     background-color: rgb(0,0,0);
-    font-size: 38pt;
+    font-size: 35pt;
 }
 section
 {
@@ -17,11 +17,11 @@ section
 p
 {
     text-align: center;
-    font-size: 14pt;
+    font-size: 15pt;
 }
 #mainpic
 {
-    border-radius: 50%;
+    border-radius: 40%;
 }
 div.button
 {
