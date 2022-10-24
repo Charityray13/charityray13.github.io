@@ -1,6 +1,10 @@
 :root
 {
-    --favcolor: rgb(0, 206, 209);
+    --favcolor: rgb(255, 192, 203);
+}
+body
+{
+    background-color: rgb(255, 228, 225);
 }
 h1
 {
