@@ -5,16 +5,20 @@ h1{
   color: rgb (25, 25, 112);
   text-align: left;
   font-size: 20px;
+  font-family: times-new-romans;
 }
 h3{
   color: rgb (25, 25, 112);
   font-size: 20px;
+  font-family: times-new-romans;
 }
 li{
   color: rgb (255, 255, 255);
   font-size: 16px;
+  font-family: times-new-romans;
 }
 p{
   color: rgb (255, 255, 255);
   font-size: 16px;
+  font-family: times-new-romans;
 }
